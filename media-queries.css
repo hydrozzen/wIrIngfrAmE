@@ -1,0 +1,53 @@
+@media screen and (max-width: 991px) {
+    
+    h3 {
+        font-size: 1.2rem;
+    }
+    
+ 
+
+   
+}
+
+@media screen and (max-width: 767px) {
+    
+
+    .primary-button {
+        width: 100%;
+    }
+
+    
+    .big-feature-container, #second-big-feature {
+        flex-direction: column;
+    }
+
+   
+
+@media screen and (max-width: 479px) {
+    :root {
+        --padding-inline-section: 10px;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+  
+
+    .examples-card {
+        width: 100%;
+    }
+}
+}
