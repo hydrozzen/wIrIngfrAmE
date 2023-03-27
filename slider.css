@@ -56,8 +56,10 @@
   right: 25%;
 }
 #slider-control img{
-  padding-top: 60%;
+  padding-top: 40%;
   margin: 0 auto;
+  width: 910%;
+  height: 40%;
 }
 @media screen and (max-width: 992px){
 #slider-control img {
@@ -164,4 +166,14 @@
     transform: translate3d(0, 0, 0);
     left: 0;
   }
+}
+.ours{
+  color: #FFF;
+  margin-left: 1.4%;
+  font-weight: bolder;
+}
+.wes{
+  color: #FFF;
+  margin-left: 1.4%;
+  font-weight:400;
 }
